@@ -35,7 +35,7 @@
   "dependencies": {
     "card-validator": "^3.0.0",
     "prop-types": "^15.6.0",
-    "react-native-flip-card": "^3.4.1",
+    "react-native-flip-card": "git+https://git@github.com/yowlu/react-native-flip-card.git#935fa3b39b9e3405781d6c29adfba4451e64c1a5",
     "lodash.compact": "^3.0.1",
     "lodash.every": "^4.6.0",
     "lodash.pick": "^4.4.0",
